@@ -1,7 +1,3 @@
-*
-!*/
-!*.*
-!LICENSE
 dist
 dist-*
 cabal-dev

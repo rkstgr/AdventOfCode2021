@@ -7,7 +7,6 @@ import (
 	"strings"
 )
 
-
 type Move struct {
 	dir string
 	num int
