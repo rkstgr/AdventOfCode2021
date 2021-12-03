@@ -29,8 +29,8 @@ func main() {
 
 	end := time.Since(start)
 
-	fmt.Println("The solution to part 1 is: ", sol1)
-	fmt.Println("The solution to part 2 is: ", sol2)
+	fmt.Println("Part 1: ", sol1)
+	fmt.Println("Part 2: ", sol2)
 	fmt.Println("Time: ", end)
 
 }
