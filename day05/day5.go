@@ -93,7 +93,7 @@ func main() {
 	start := time.Now()
 
 	// Input reading
-	bs, err := ioutil.ReadFile("/Users/erik/Dev/hobby/adventOfCode/aoc_2021/day05/input.txt")
+	bs, err := ioutil.ReadFile("input.txt")
 
 	if err != nil {
 		panic(err)
