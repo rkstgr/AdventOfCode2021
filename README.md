@@ -1,5 +1,4 @@
-# aoc_2021
-Advent Of Code 2021
+# Advent Of Code 2021
 
 ## Problem and Ansatz:
 - Day 01: One-step difference in array
